@@ -6,13 +6,13 @@
 
 To launch this app on ASWA, fork this repo to your own GitHub account and either login to the [Azure Portal](https://aka.ms/trystaticwebapps) or use this button to deploy your code to the portal:
 
-[![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=affirmations-github-jelooper#create/Microsoft.StaticApp)
+[![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=academic-0000-jelooper#create/Microsoft.StaticApp)
 
-Alternately, fork this repo and run it using the [Vue CLI](https://cli.vuejs.org/), then deploy it to Static Apps via the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps?WT.mc_id=affirmations-github-jelooper).
+Alternately, fork this repo and run it using the [Vue CLI](https://cli.vuejs.org/), then deploy it to Static Apps via the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps%3FWT.mc_id%3Daffirmations-github-jelooper&WT.mc_id=academic-0000-jelooper).
 
-You can run the Azure function that is contained in the `/api` folder of this web-app folder using the [Azure Extensions](https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=affirmations-github-jelooper) from within VS Code. Before running your function on port 7071, make sure to cd to the api folder and `npm install` dependencies.
+You can run the Azure function that is contained in the `/api` folder of this web-app folder using the [Azure Extensions](https://code.visualstudio.com/docs/azure/extensions?WT.mc_id=academic-0000-jelooper) from within VS Code. Before running your function on port 7071, make sure to cd to the api folder and `npm install` dependencies.
 
-> You can read more about how to build and host Azure Static Sites on the Microsoft [Docs](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=affirmations-github-jelooper). You can also walk through how to publish your static sites to Azure on Microsoft [Learn](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=green-github-jelooper)
+> You can read more about how to build and host Azure Static Sites on the Microsoft [Docs](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-0000-jelooper). You can also walk through how to publish your static sites to Azure on Microsoft [Learn](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=academic-0000-jelooper)
 
 ## Affirmations for daily consumption!
 
